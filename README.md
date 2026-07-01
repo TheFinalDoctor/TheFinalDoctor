@@ -6,5 +6,5 @@
 
 Sharing my journey learning the beautiful art of software engineering and hopefully creating/contributing something that both gives back to the community and inspires others to take up the same pursuit.
 
-## Focus
+## Specialisation
 - C++ Software Engineering 
