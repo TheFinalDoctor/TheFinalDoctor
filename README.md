@@ -5,7 +5,7 @@
 -->
 
 Hi, I'm Hessel.\
-I'm sharing my journey as I learn the craft of software engineering — building projects, contributing to open source, and documenting the lessons learned along the way. My goal is to create work that gives back to the community and inspires others to start building, learning, and sharing their own ideas.
+I'm sharing my journey as I learn the craft of software engineering — building projects, contributing to open source, and documenting the lessons learned along the way. My goal is to create stuff that both gives back to the community and inspires others to start building, learning, and sharing their own ideas.
 
-### Technical Interests
-- C++ Software 
+### Technical Interest
+- C++ Software
